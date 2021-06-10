@@ -1,0 +1,45 @@
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+body
+{
+    background-size: contain;
+}
+
+.note
+{
+    font-size: 15px;
+    color: black;
+}
+
+.div_songlist
+{
+    float: left;
+}
+
+.div_songlist-highlight 
+{
+    color: chartreuse;
+}
+
+.div_volume
+{
+    float: right;
+}
+
+.div_volume_img
+{
+    width: 150px;
+    height: 150px;
+    border-radius: 500px;
+    margin-top: 30px;
+}
+
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
